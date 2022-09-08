@@ -1,0 +1,15 @@
+{
+  "name": "zktest",
+  "version": "1.0.0",
+  "description": "zk test",
+  "main": "index.js",
+  "repository": "git@github.com:kostysh/zk-test.git",
+  "author": "Kostiantyn Smyrnov <kostysh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "ceremony": "./scripts/ceremony.sh"
+  },
+  "dependencies": {
+    "snarkjs": "^0.4.27"
+  }
+}
